@@ -1,0 +1,12 @@
+h1 {
+  color: blueviolet;
+  font-size: 20;
+  font-style: italic;
+  text-align: justify;
+  text-transform: capitalize;
+}
+
+.hehe,
+.hoho {
+  color: red;
+}
